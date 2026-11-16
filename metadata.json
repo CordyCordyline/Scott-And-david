@@ -1,0 +1,6 @@
+{
+  "name": "BridgeLab",
+  "description": "Real-time code refactoring and AI-powered crash debugging workspace for iOS (Swift) and Android (Kotlin) developer ecosystems powered by Gemini 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
